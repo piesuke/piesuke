@@ -1,6 +1,6 @@
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=piesuke)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=piesuke&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piesuke)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piesuke&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
